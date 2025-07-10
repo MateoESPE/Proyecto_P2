@@ -3,22 +3,6 @@
 Este proyecto implementa dos ejercicios prácticos usando programación orientada a objetos en PHP, con una interfaz amigable gracias a Bootstrap. Permite calcular estadísticas básicas y realizar operaciones con polinomios.
 
 ----------------------------------------
-📁 Estructura del Proyecto:
-
-proyecto/
-├── ejercicio2/
-│   ├── Estadistica.php
-│   ├── EstadisticaBasica.php
-│   └── OperacionEstadistica.php
-├── ejercicio3/
-│   ├── PolinomioAbstracto.php
-│   ├── Polinomio.php
-│   └── OperacionPolinomio.php
-├── index2.php         # Interfaz para Estadísticas Básicas
-├── index3.php         # Interfaz para Manejo de Polinomios
-└── README.txt         # Este archivo
-
-----------------------------------------
 📌 Ejercicio 2: Estadísticas Básicas
 
 Permite ingresar varios conjuntos de números (identificados con un nombre) y calcular:
