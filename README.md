@@ -1,4 +1,4 @@
-# Proyecto PHP - Estadísticas Básicas y Manejo de Polinomios
+# Proyecto Parcial 2 - Estadísticas Básicas y Manejo de Polinomios
 
 Este proyecto implementa dos ejercicios prácticos usando programación orientada a objetos en PHP, con una interfaz amigable gracias a Bootstrap. Permite calcular estadísticas básicas y realizar operaciones con polinomios.
 
@@ -37,9 +37,6 @@ http://localhost/proyecto/index3.php  → Manejo de Polinomios
 🧑‍💻 Autor
 
 Mateo Chanataxi
+Aplicaciones de Tecnologias Web
+NRC: 21507
 https://github.com/MateoESPE
-
-----------------------------------------
-📝 Licencia
-
-Este proyecto está bajo la Licencia MIT.
